@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18091072093",
+    "project_id": "samsung-task",
+    "storage_bucket": "samsung-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18091072093:android:78e3c1f176e4cff7ee0bb4",
+        "android_client_info": {
+          "package_name": "com.samsung.samsungtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18091072093-d5thb6gt4appho4mim46mqotu3e054nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgw2NmNUte0kLhgnHvUl8A8vPU-Hm980"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18091072093-d5thb6gt4appho4mim46mqotu3e054nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
